@@ -5,7 +5,7 @@
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### On this list you will find:  
-* projects ready for production
+* Projects ready for production
 * Projects with minimal setup
 * Standalone projects (see instead  [awesome-projects-boilerplates](https://github.com/melvin0008/awesome-projects-boilerplates))
 
@@ -15,16 +15,21 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## Android Applications
 
 
+
 ## Command Line Interface
+
 
 
 ## IOS Applications
 
 
+
 ## Web-Sites
 
 
+
 ## Windows Phone Applications
+
 
 
 ## Contribute
